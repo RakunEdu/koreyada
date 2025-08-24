@@ -240,4 +240,75 @@
 </details>
 
 
+--- 
 
+
+<details>
+<summary> 📌 GET /categories_list/ </summary>
+
+### Categories List Endpoint 
+
+> Response (200): 
+```json
+{
+   "1": {
+          "category_id": 1,
+          "category_name_en": "Visa & Law" 
+          "category_name_uz": "Viza & Qonun"
+          "n_comments": 12  
+        }
+}
+```
+</details>
+
+
+
+<details>
+<summary> 📌 GET /edit_user/ </summary>
+
+### Edit User Endpoint 
+
+> Request body: 
+```json
+{
+  "category_id": 1,
+  "category_name_en": "Visas & Laws",
+  "category_name_uz": "Vizalar & Qonunlar"
+  "status": False   
+}
+```
+
+
+> Response (200): 
+```json
+{
+   "message": Successfully edited! 
+}
+```
+</details> 
+
+
+
+<details>
+<summary> 📌 GET /add_category/ </summary>
+
+### Edit User Endpoint 
+
+> Request body: 
+```json
+{
+  "category_name_en": "Visas & Laws",
+  "category_name_uz": "Vizalar & Qonunlar", 
+  "description_en": "blabla", 
+  "description_uz": "blabla"   
+}
+```
+
+
+> Response (200): 
+```json
+{
+   "message": Successfully added! 
+}
+```
+</details> 
