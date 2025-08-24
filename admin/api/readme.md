@@ -164,7 +164,7 @@
 
 
 <details>
-<summary> 📌 GET /edit_user/ </summary>
+<summary> 📌 POST /edit_user/ </summary>
 
 ### Edit User Endpoint 
 
@@ -190,7 +190,7 @@
 
 
 <details>
-<summary> 📌 GET /delete_user/ </summary>
+<summary> 📌 POST /delete_user/ </summary>
 
 ### Delete User Endpoint 
 
@@ -213,7 +213,7 @@
 
 
 <details>
-<summary> 📌 GET /add_user/ </summary>
+<summary> 📌 POST /add_user/ </summary>
 
 ### Delete User Endpoint 
 
@@ -264,7 +264,7 @@
 
 
 <details>
-<summary> 📌 GET /edit_user/ </summary>
+<summary> 📌 POST /edit_user/ </summary>
 
 ### Edit User Endpoint 
 
@@ -290,7 +290,7 @@
 
 
 <details>
-<summary> 📌 GET /add_category/ </summary>
+<summary> 📌 POST /add_category/ </summary>
 
 ### Edit User Endpoint 
 
