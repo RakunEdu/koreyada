@@ -136,7 +136,7 @@
 
 
 --- 
-
+### 3. Users Endpoints  
 
 <details>
 <summary> 📌 GET /users_list/ </summary>
@@ -241,7 +241,7 @@
 
 
 --- 
-
+### 4. Categories Endpoints  
 
 <details>
 <summary> 📌 GET /categories_list/ </summary>
