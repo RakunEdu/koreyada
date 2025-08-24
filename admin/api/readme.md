@@ -312,3 +312,28 @@
 }
 ```
 </details> 
+
+
+
+--- 
+### 5. Businesses Endpoints  
+
+<details>
+<summary> 📌 GET /businesses_list/ </summary>
+
+### Businesses List Endpoint 
+
+> Response (200): 
+```json
+{
+   "1": {
+          "business_id": 1,
+          "category_name_en": "Visa & Law" 
+          "category_name_uz": "Viza & Qonun"
+          "n_comments": 12  
+        }
+}
+```
+</details>
+
+
