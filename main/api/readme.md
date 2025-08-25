@@ -60,9 +60,13 @@
 > Request body: 
 ```json
 {
-  ""
-  "login": "fjuraev",
-  "password": "Ewing0605"
+  "name": "umidjon",
+  "role_id": 0,
+  "login": "umid",
+  "password": "umid0210",
+  "phone": "998933313348",
+  "email": "user@example.com",
+  "country": "Uzbekistan"
 }
 ```
 
