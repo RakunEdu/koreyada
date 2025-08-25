@@ -189,15 +189,16 @@
 <details>
 <summary> 📌 GET /featured_businesses/ </summary>
 
-### Latest Articles Endpoint 
-* Returns the latest posted articles 
+### Latest Businesses Endpoint 
+* Returns the latest posted businesses 
 
 > Response (200): 
 ```json
 {
-  "1": {  "article_id": 24
-          "article_title_en": "How to open a bank account in Korea",
-          "article_title_uz": "Qanday qilib bank hisob raqam ochish", 
+  "1": {  "name": "B",
+          "short_info_en": "Professional immigration legal services for foreign nationals",
+          "short_info_uz": "Chet ellik fuqarolar uchun professional immigratsiya-huquqiy xizmatlar",
+          "logo_link": "https://globallawexperts.com/wp-content/uploads/2023/07/8004_OpenVisaKorea_firm_logo.jpg"
        }
 }
 ```
