@@ -341,16 +341,16 @@
 ```json
 {
    "business_id": 12
-   "business_name": "How to open a bank account in Korea",
-   "business_short_info_en": "Qanday qilib bank hisob raqam ochish",
-   "business_short_info_uz": "Qanday qilib bank hisob raqam ochish",
+   "business_name": "Professional immigration legal services for foreign nationals",
+   "business_short_info_en": "Professional immigration legal services for foreign nationals",
+   "business_short_info_uz": "Chet ellik fuqarolar uchun professional immigratsiya-huquqiy xizmatlar",
    "business_phone": "998933313348"
-   "business_email": ""
+   "business_email": "koreada-viza4@gmail.com"
    "business_location": "101 Daehak-ro, Jongno-gu, Seoul"
-   "business_full_description_en": ""
-   "business_full_description_uz": ""
-   "business_logo_link": ""
-   "business_background_image_link": ""
+   "business_full_description_en": "Our firm provides comprehensive immigration legal services tailored to the unique needs of foreign nationals. We assist individuals, families, and businesses in navigating complex immigration laws with professionalism, precision, and care. From visa applications and permanent residency to work permits, citizenship, and legal representation, we ensure every step of the process is handled efficiently. With in-depth knowledge of immigration regulations and a client-focused approach, we are committed to protecting your rights and achieving the best possible outcome. Whether you are relocating for work, education, investment, or family reunification, our expert team offers personalized strategies and reliable guidance to make your transition seamless."
+   "business_full_description_uz": "Biz jismoniy shaxslar, oilalar va biznes vakillariga murakkab immigratsiya qonunlarini yengib o‘tishda professional, aniq va g‘amxo‘rlik bilan yordam beramiz. Viza arizalaridan boshlab doimiy yashash huquqi, ish ruxsatnomalari, fuqarolik olish va huquqiy vakillikka qadar bo‘lgan barcha jarayonlarni samarali amalga oshirishni ta’minlaymiz. Immigratsiya qonunlari bo‘yicha chuqur bilim va mijozlarga yo‘naltirilgan yondashuv orqali biz sizning huquqlaringizni himoya qilish va eng yaxshi natijaga erishishga intilamiz. Ish, ta’lim, investitsiya yoki oila birlashuvi maqsadida ko‘chib o‘tayotgan bo‘lsangiz, bizning mutaxassislar jamoamiz sizning ehtiyojlaringizga moslashtirilgan strategiyalar va ishonchli yo‘l-yo‘riqlar bilan o‘tishingizni silliq va oson qiladi."
+   "business_logo_link": "https://globallawexperts.com/wp-content/uploads/2023/07/8004_OpenVisaKorea_firm_logo.jpg"
+   "business_background_image_link": "https://globallawexperts.com/wp-content/uploads/2023/07/8004_OpenVisaKorea_firm_logo.jpg"
    "business_services": ["visa xizmatlari", "trajima"] 
 }
 ```
@@ -431,14 +431,14 @@
 ```json
 {
    "news_id": 12, 
-   "news_title_en": "How to open a bank account in Korea",
-   "news_title_uz": "Qanday qilib bank hisob raqam ochish",
-   "news_context_en": ""
-   "news_context_uz": ""
+   "news_title_en": "Discovering Halal Kitchens in Korea",
+   "news_title_uz": "Discovering Halal Kitchens in Korea",
+   "news_context_en": "A guide to finding authentic halal restaurants and eateries for Muslim residents and travelers"
+   "news_context_uz": "Musulmon rezidentlar va sayohatchilar uchun haqiqiy halal restoran va oshxonalarni topish bo‘yicha qo‘llanma."
    "news_aothor": "umidjon juraqulov"
    "news_date": "2025-05-09"
    "news_header_image_link": ""
-   "news_views": ""
+   "news_views": 15
    "news_images: [image1, image2]
 }
 ```
