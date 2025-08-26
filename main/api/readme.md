@@ -251,8 +251,13 @@
 ```json
 {
   "1": {  "business_id": 12
-          "article_title_en": "How to open a bank account in Korea",
-          "article_title_uz": "Qanday qilib bank hisob raqam ochish", 
+          "name": "How to open a bank account in Korea",
+          "short_info_en": "Qanday qilib bank hisob raqam ochish",
+          ""short_info_uz": "Qanday qilib bank hisob raqam ochish",
+          "phone":
+          "phone":
+          "location"
+          "logo_link"
        }
 }
 ```
@@ -276,9 +281,12 @@
 > Response (200): 
 ```json
 {
-  "1": {  "business_id": 12
-          "article_title_en": "How to open a bank account in Korea",
-          "article_title_uz": "Qanday qilib bank hisob raqam ochish", 
+  "1": {  "article_id": 12
+          "article_title_en": "Understanding Korean Health Insurance System",
+          "article_title_uz": "Qanday qilib bank hisob raqam ochish",
+          "article_image_link": "Qanday qilib bank hisob raqam ochish",
+          "article_user": "Umidjon Juraqulov",
+          "article_tags": {maqola, Sog'liq}
        }
 }
 ```
@@ -301,9 +309,12 @@
 > Response (200): 
 ```json
 {
-  "1": {  "business_id": 12
-          "article_title_en": "How to open a bank account in Korea",
-          "article_title_uz": "Qanday qilib bank hisob raqam ochish", 
+  "1": {  "news_id": 12
+          "news_title_en": "Understanding Korean Health Insurance System",
+          "news_title_uz": "Qanday qilib bank hisob raqam ochish",
+          "news_image_link": "Qanday qilib bank hisob raqam ochish",
+          "news_user": "Umidjon Juraqulov",
+          "news_tags": {maqola, Sog'liq} 
        }
 }
 ```
@@ -330,10 +341,17 @@
 ```json
 {
    "business_id": 12
-   "article_title_en": "How to open a bank account in Korea",
-   "article_title_uz": "Qanday qilib bank hisob raqam ochish",
-
-   "services": ["visa xizmatlari", "trajima"] 
+   "business_name": "How to open a bank account in Korea",
+   "business_short_info_en": "Qanday qilib bank hisob raqam ochish",
+   "business_short_info_uz": "Qanday qilib bank hisob raqam ochish",
+   "business_phone": ""
+   "business_email": ""
+   "business_location": ""
+   "business_full_description_en": ""
+   "business_full_description_uz": ""
+   "business_logo_link": ""
+   "business_background_image_link": ""
+   "business_services": ["visa xizmatlari", "trajima"] 
 }
 ```
 </details>
