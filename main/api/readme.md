@@ -253,7 +253,7 @@
   "1": {  "business_id": 12
           "name": "How to open a bank account in Korea",
           "short_info_en": "Qanday qilib bank hisob raqam ochish",
-          ""short_info_uz": "Qanday qilib bank hisob raqam ochish",
+          "short_info_uz": "Qanday qilib bank hisob raqam ochish",
           "phone": "998933313348"
           "email": "example@gmail.com"
           "location": "101 Daehak-ro, Jongno-gu, Seoul"
@@ -286,7 +286,7 @@
           "article_title_uz": "Qanday qilib bank hisob raqam ochish",
           "article_image_link": "Qanday qilib bank hisob raqam ochish",
           "article_user": "Umidjon Juraqulov",
-          "article_tags": {maqola, Sog'liq}
+          "article_tags": "{maqola, Sog'liq}"
        }
 }
 ```
@@ -314,7 +314,7 @@
           "news_title_uz": "Qanday qilib bank hisob raqam ochish",
           "news_image_link": "Qanday qilib bank hisob raqam ochish",
           "news_user": "Umidjon Juraqulov",
-          "news_tags": {maqola, Sog'liq} 
+          "news_tags": "{maqola, Sog'liq}" 
        }
 }
 ```
@@ -437,7 +437,7 @@
    "news_context_uz": "Musulmon rezidentlar va sayohatchilar uchun haqiqiy halal restoran va oshxonalarni topish bo‘yicha qo‘llanma."
    "news_aothor": "umidjon juraqulov"
    "news_date": "2025-05-09"
-   "news_header_image_link": ""
+   "news_header_image_link": "https://fhuakufghakujfhgakagg.jpg"
    "news_views": 15
    "news_images: [image1, image2]
 }
@@ -517,15 +517,20 @@
 > Response (200): 
 ```json
 {
-   "article_id": 12, 
-   "article_title_en": "How to open a bank account in Korea",
-   "article_title_uz": "Qanday qilib bank hisob raqam ochish",
-   "article_context_en": ""
-   "article_context_uz": ""
-   "article_aothor": ""
-   "article_date": ""
-   "article_header_image_link": ""
-   "article_views": ""
+   "article_id": 12,
+    "article_title_en": "A New Way to Explore Ethical Shopping",
+    "article_title_uz": "Etik Savdo Bozori Tomon Yangi Qadam",
+    "article_content_en": "The demand for halal products has grown rapidly in recent years. \"Halal and Shop\" is more than just a marketplace – it is a lifestyle choice. Shoppers today seek products that align with their values, including ethical sourcing, cleanliness, and religious compliance.\r\n\r\nHalal-certified items include food, cosmetics, clothing, and even finance. This growing interest reflects not only religious needs but also a broader shift toward healthier and more transparent consumption. Many non-Muslim consumers also choose halal products for their quality and hygiene standards.\r\n\r\nOnline halal marketplaces are making it easier than ever to discover, review, and buy halal-certified products from anywhere in the world. With the power of digital tools, “Halal and Shop” connects customers to trustworthy brands and local producers. It’s not just about shopping – it’s about conscious living.",
+    "content_uz": "So‘nggi yillarda halol mahsulotlarga bo‘lgan talab keskin oshdi. “Halol va Xarid” nafaqat bozor maydonchasi, balki turmush tarzini aks ettiruvchi konsepsiyadir. Bugungi xaridorlar o‘z e’tiqodlari va qadriyatlariga mos mahsulotlarni izlayapti – bu esa etik ishlab chiqarish, poklik va diniy talablar bilan uyg‘unlikda bo‘lgan mahsulotlarni anglatadi.\r\n\r\nHalol sertifikatiga ega mahsulotlar faqat oziq-ovqat bilan cheklanmaydi – kosmetika, kiyim-kechak, hatto moliyaviy xizmatlar ham bu ro‘yxatga kiradi. Bu nafaqat diniy talablarni qondiradi, balki sog‘lom va shaffof iste’mol madaniyatiga bo‘lgan umumiy ehtiyojni ham ifodalaydi. Ko‘plab musulmon bo‘lmagan xaridorlar ham halol mahsulotlarni sifat va gigiyena mezonlari tufayli tanlaydilar.\r\n\r\nOnlayn halol bozorlar orqali endi halol mahsulotlarni istalgan joydan topish, ularni solishtirish va xarid qilish osonlashdi. “Halol va Xarid” loyihasi ishonchli brendlar va mahalliy ishlab chiqaruvchilarni xaridorlar bilan bog‘lab beradi. Bu shunchaki xarid emas – bu ongli hayot tarzidir.",
+   
+    "article_created_at": "2025-08-05 00:00:00",
+    "article_tags":" [
+      "halal food",
+      "halal restaurants"
+    ]"
+   "article_aothor": "umidjon juraqulov"
+   "article_header_image_link": "https://fajhgajhgajgnjg.jpg"
+   "article_views": 16
    "article_images: [image1, image2]
 }
 ```
@@ -638,7 +643,7 @@
           "news_title_uz": "Qanday qilib bank hisob raqam ochish",
           "news_image_link": "Qanday qilib bank hisob raqam ochish",
           "news_user": "Umidjon Juraqulov",
-          "news_tags": {maqola, Sog'liq} 
+          "news_tags": "{maqola, Sog'liq}" 
        }
 }
 ```
@@ -667,7 +672,7 @@
           "article_title_uz": "Qanday qilib bank hisob raqam ochish",
           "article_image_link": "Qanday qilib bank hisob raqam ochish",
           "article_user": "Umidjon Juraqulov",
-          "article_tags": {maqola, Sog'liq}
+          "article_tags": "{maqola, Sog'liq}"
        }
 }
 ```
