@@ -606,12 +606,10 @@
 > Response (200): 
 ```json
 {
-  "1": {  "category_id": 1
-          "category_name_en": "SIM card and phone",
-          "category_name_uz": "Sim karta va telefon",
-          "description_en": "Providing SIM cards, mobile phones, and top-up services for local and international use.",
-          "description_uz": "Mahalliy va xalqaro foydalanish uchun SIM kartalar, mobil telefonlar va balans to‘ldirish xizmatlari",
-          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"24px\" viewBox=\"0 -960 960 960\" width=\"24px\" fill=\"#1f1f1f\"><path d=\"M280-200h80v-80h-80v80Zm0-160h80v-160h-80v160Zm160 160h80v-160h-80v160Zm0-240h80v-80h-80v80Zm160 240h80v-80h-80v80Zm0-160h80v-160h-80v160ZM240-80q-33 0-56.5-23.5T160-160v-480l240-240h320q33 0 56.5 23.5T800-800v640q0 33-23.5 56.5T720-80H240Zm0-80h480v-640H434L240-606v446Zm0 0h480-480Z\"/></svg>",
+  "1": {  "business_id": 12
+          "business_name": "How to open a bank account in Korea",
+          "business_short_info_en": "Qanday qilib bank hisob raqam ochish",
+          "business_short_info_uz": "Qanday qilib bank hisob raqam ochish",
        }
 }
 ```
