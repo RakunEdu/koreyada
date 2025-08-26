@@ -432,7 +432,14 @@
 {
    "news_id": 12, 
    "news_title_en": "How to open a bank account in Korea",
-   "news_title_uz": "Qanday qilib bank hisob raqam ochish", 
+   "news_title_uz": "Qanday qilib bank hisob raqam ochish",
+   "news_context_en": ""
+   "news_context_uz": ""
+   "news_aothor": ""
+   "news_date": ""
+   "news_header_image_link": ""
+   "news_views": ""
+   "news_images: [image1, image2]
 }
 ```
 </details>
@@ -511,8 +518,15 @@
 ```json
 {
    "article_id": 12, 
-   "news_title_en": "How to open a bank account in Korea",
-   "news_title_uz": "Qanday qilib bank hisob raqam ochish", 
+   "article_title_en": "How to open a bank account in Korea",
+   "article_title_uz": "Qanday qilib bank hisob raqam ochish",
+   "article_context_en": ""
+   "article_context_uz": ""
+   "article_aothor": ""
+   "article_date": ""
+   "article_header_image_link": ""
+   "article_views": ""
+   "article_images: [image1, image2]
 }
 ```
 </details>
