@@ -254,10 +254,10 @@
           "name": "How to open a bank account in Korea",
           "short_info_en": "Qanday qilib bank hisob raqam ochish",
           ""short_info_uz": "Qanday qilib bank hisob raqam ochish",
-          "phone":
-          "phone":
-          "location"
-          "logo_link"
+          "phone": "998933313348"
+          "email": "example@gmail.com"
+          "location": "101 Daehak-ro, Jongno-gu, Seoul"
+          "logo_link": "https://ahfkjasfjafgkls"
        }
 }
 ```
@@ -344,9 +344,9 @@
    "business_name": "How to open a bank account in Korea",
    "business_short_info_en": "Qanday qilib bank hisob raqam ochish",
    "business_short_info_uz": "Qanday qilib bank hisob raqam ochish",
-   "business_phone": ""
+   "business_phone": "998933313348"
    "business_email": ""
-   "business_location": ""
+   "business_location": "101 Daehak-ro, Jongno-gu, Seoul"
    "business_full_description_en": ""
    "business_full_description_uz": ""
    "business_logo_link": ""
@@ -435,8 +435,8 @@
    "news_title_uz": "Qanday qilib bank hisob raqam ochish",
    "news_context_en": ""
    "news_context_uz": ""
-   "news_aothor": ""
-   "news_date": ""
+   "news_aothor": "umidjon juraqulov"
+   "news_date": "2025-05-09"
    "news_header_image_link": ""
    "news_views": ""
    "news_images: [image1, image2]
