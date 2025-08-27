@@ -337,3 +337,26 @@
 </details>
 
 
+
+
+--- 
+### 6. Post Endpoints  
+
+<details>
+<summary> 📌 GET /posts_list/ </summary>
+
+### Posts List Endpoint 
+
+> Response (200): 
+```json
+{
+   "1": {
+          "post_id": 1,
+          "post_name_en": "Visa & Law" 
+          "post_name_uz": "Viza & Qonun"
+          "n_comments": 12  
+        }
+}
+```
+</details>
+ 
