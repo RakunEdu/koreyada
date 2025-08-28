@@ -519,21 +519,20 @@
 > Response (200): 
 ```json
 {
-   "article_id": 12,
-    "article_title_en": "A New Way to Explore Ethical Shopping",
-    "article_title_uz": "Etik Savdo Bozori Tomon Yangi Qadam",
-    "article_content_en": "The demand for halal products has grown rapidly in recent years. \"Halal and Shop\" is more than just a marketplace – it is a lifestyle choice. Shoppers today seek products that align with their values, including ethical sourcing, cleanliness, and religious compliance.\r\n\r\nHalal-certified items include food, cosmetics, clothing, and even finance. This growing interest reflects not only religious needs but also a broader shift toward healthier and more transparent consumption. Many non-Muslim consumers also choose halal products for their quality and hygiene standards.\r\n\r\nOnline halal marketplaces are making it easier than ever to discover, review, and buy halal-certified products from anywhere in the world. With the power of digital tools, “Halal and Shop” connects customers to trustworthy brands and local producers. It’s not just about shopping – it’s about conscious living.",
-    "content_uz": "So‘nggi yillarda halol mahsulotlarga bo‘lgan talab keskin oshdi. “Halol va Xarid” nafaqat bozor maydonchasi, balki turmush tarzini aks ettiruvchi konsepsiyadir. Bugungi xaridorlar o‘z e’tiqodlari va qadriyatlariga mos mahsulotlarni izlayapti – bu esa etik ishlab chiqarish, poklik va diniy talablar bilan uyg‘unlikda bo‘lgan mahsulotlarni anglatadi.\r\n\r\nHalol sertifikatiga ega mahsulotlar faqat oziq-ovqat bilan cheklanmaydi – kosmetika, kiyim-kechak, hatto moliyaviy xizmatlar ham bu ro‘yxatga kiradi. Bu nafaqat diniy talablarni qondiradi, balki sog‘lom va shaffof iste’mol madaniyatiga bo‘lgan umumiy ehtiyojni ham ifodalaydi. Ko‘plab musulmon bo‘lmagan xaridorlar ham halol mahsulotlarni sifat va gigiyena mezonlari tufayli tanlaydilar.\r\n\r\nOnlayn halol bozorlar orqali endi halol mahsulotlarni istalgan joydan topish, ularni solishtirish va xarid qilish osonlashdi. “Halol va Xarid” loyihasi ishonchli brendlar va mahalliy ishlab chiqaruvchilarni xaridorlar bilan bog‘lab beradi. Bu shunchaki xarid emas – bu ongli hayot tarzidir.",
-   
-    "article_created_at": "2025-08-05 00:00:00",
-    "article_tags":" [
-      "halal food",
-      "halal restaurants"
-    ]"
-   "article_aothor": "umidjon juraqulov"
-   "article_header_image_link": "https://fajhgajhgajgnjg.jpg"
-   "article_views": 16
-   "article_images: [image1, image2]
+  "article_id": 2,
+  "article_title_en": "Korea Immigration Service – Supporting Foreign Residents in South Korea",
+  "article_title_uz": "Koreya Immigratsiya Xizmati – Janubiy Koreyada yashayotgan chet elliklarni qo‘llab-quvvatlaydi.",
+  "article_content_en": "Korea Immigration Service (KIS) is the official government agency responsible for managing immigration-related matters in South Korea. Operating under the Ministry of Justice, KIS plays a vital role in ensuring the legal entry, stay, and departure of foreign nationals, as well as promoting a safe and orderly immigration system.\r\n\r\nSouth Korea has seen a steady increase in the number of foreign residents over the past decades, including workers, students, investors, and multicultural families. The Korea Immigration Service supports this growing community by offering transparent, efficient, and accessible services.\r\n\r\nKey Responsibilities of the Korea Immigration Service:\r\nIssuing visas and residence permits\r\n\r\nRegulating entry and exit of foreigners\r\n\r\nOverseeing refugee and asylum applications\r\n\r\nManaging permanent residency and naturalization processes\r\n\r\nSupporting multicultural families and foreign workers\r\n\r\nEnforcing immigration laws and preventing illegal stay\r\n\r\nServices Offered to Foreign Residents:\r\nForeign nationals residing in South Korea can visit immigration offices across the country to access a range of services. These include visa extensions, status changes, re-entry permits, and alien registration. Many of these services can now be accessed online through the HiKorea portal, making the process more convenient.\r\n\r\nThe government also provides multilingual support and guidance through information centers, call services, and printed materials to ensure that language barriers do not hinder access to essential services.",
+  "article_content_uz": "Janubiy Koreya Immigratsiya Xizmati (Korea Immigration Service – KIS) – bu mamlakatda immigratsiyaga oid barcha jarayonlarni boshqaradigan rasmiy davlat tashkilotidir. Adliya vazirligi tarkibida faoliyat yurituvchi ushbu xizmat xorijiy fuqarolarning mamlakatga qonuniy kirishi, yashashi va chiqib ketishini tartibga solish hamda immigratsiya tizimining xavfsiz va tartibli bo‘lishini ta’minlashda muhim rol o‘ynaydi.\r\n\r\nSo‘nggi yillarda Janubiy Koreyada xorijiy fuqarolar – ishchilar, talabalar, sarmoyadorlar va ko‘p madaniyatli oilalar soni ortib bormoqda. KIS ushbu o‘sib borayotgan hamjamiyatga ochiq, samarali va qulay xizmatlar orqali yordam bermoqda.\r\n\r\nJanubiy Koreya Immigratsiya Xizmatining asosiy vazifalari:\r\nVizalar va yashash ruxsatnomalarini berish\r\n\r\nXorijliklarning kirish va chiqishini nazorat qilish\r\n\r\nQochqinlik va boshpana arizalarini ko‘rib chiqish\r\n\r\nDoimiy yashash va fuqarolik olish jarayonlarini boshqarish\r\n\r\nKo‘p madaniyatli oilalar va xorijlik ishchilarni qo‘llab-quvvatlash\r\n\r\nImmigratsiya qonunlariga rioya qilinishini ta’minlash va noqonuniy yashashga qarshi kurashish\r\n\r\nXorijliklar uchun taqdim etiladigan xizmatlar:\r\nJanubiy Koreyada yashayotgan xorijliklar mamlakat bo‘ylab joylashgan immigratsiya idoralariga murojaat qilib, turli xizmatlardan foydalanishlari mumkin. Bular orasida vizani uzaytirish, maqomni o‘zgartirish, qayta kirish ruxsatnomasi olish va chet elliklar ro‘yxatidan o‘tish mavjud.\r\n\r\nHozirda ushbu xizmatlarning ko‘pchiligi HiKorea portali orqali onlayn ko‘rinishda ham taqdim etilmoqda, bu esa jarayonni ancha qulaylashtiradi.\r\n\r\nHukumat til to‘sig‘i muammo bo‘lmasligi uchun ko‘p tilli ma’lumot markazlari, telefon xizmatlari va yozma materiallar orqali xorijliklarga ko‘mak bermoqda.",
+  "article_author": "Umid",
+  "article_date": "2025-08-05 00:00:00",
+  "article_header_image_link": null,
+  "article_views": 0,
+  "article_tags": [
+    "immigration",
+    "residency"
+  ],
+  "article_images": []
 }
 ```
 </details>
