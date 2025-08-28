@@ -430,16 +430,18 @@
 > Response (200): 
 ```json
 {
-   "news_id": 12, 
-   "news_title_en": "Discovering Halal Kitchens in Korea",
-   "news_title_uz": "Discovering Halal Kitchens in Korea",
-   "news_context_en": "A guide to finding authentic halal restaurants and eateries for Muslim residents and travelers"
-   "news_context_uz": "Musulmon rezidentlar va sayohatchilar uchun haqiqiy halal restoran va oshxonalarni topish bo‘yicha qo‘llanma."
-   "news_aothor": "umidjon juraqulov"
-   "news_date": "2025-05-09"
-   "news_header_image_link": "https://fhuakufghakujfhgakagg.jpg"
-   "news_views": 15
-   "news_images: [image1, image2]
+
+  "news_id": 9,
+  "news_title_en": "Discovering Halal Kitchens in Korea",
+  "news_title_uz": "Discovering Halal Kitchens in Korea",
+  "news_content_en": "A guide to finding authentic halal restaurants and eateries for Muslim residents and travelers",
+  "news_content_uz": "Musulmon rezidentlar va sayohatchilar uchun haqiqiy halal restoran va oshxonalarni topish bo‘yicha qo‘llanma.",
+  "news_author": "Kimsanboy",
+  "news_date": "2025-08-19 11:59:38",
+  "news_header_image_link": null,
+  "news_views": 0,
+  "news_tags": [],
+  "news_images": []
 }
 ```
 </details>
