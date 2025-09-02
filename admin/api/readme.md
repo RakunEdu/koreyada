@@ -313,6 +313,26 @@
 ```
 </details> 
 
+<details>
+<summary> 📌 POST /delete_user/ </summary>
+
+### Delete Category Endpoint 
+
+> Request body: 
+```json
+{
+  "Category_id": 23
+}
+```
+
+
+> Response (200): 
+```json
+{
+   "message": Successfully deleted! 
+}
+```
+</details>
 
 
 --- 
