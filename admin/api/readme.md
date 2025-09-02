@@ -314,7 +314,7 @@
 </details> 
 
 <details>
-<summary> 📌 POST /delete_user/ </summary>
+<summary> 📌 POST /delete_category/ </summary>
 
 ### Delete Category Endpoint 
 
