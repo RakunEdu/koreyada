@@ -355,8 +355,75 @@
 }
 ```
 </details>
+<details>
+<summary> 📌 PUT /edit_businesses/ </summary>
+### Edit Business Endpoint 
+
+> Request body: 
+```json
+{
+  "category_id": 1,
+  "category_name_en": "Visas & Laws",
+  "category_name_uz": "Vizalar & Qonunlar"
+  "status": False   
+}
+```
 
 
+> Response (200): 
+```json
+{
+   "message": Successfully edited! 
+}
+```
+</details> 
+
+
+
+<details>
+<summary> 📌 POST /add_business/ </summary>
+
+### Edit Business Endpoint 
+
+> Request body: 
+```json
+{
+  "category_name_en": "Visas & Laws",
+  "category_name_uz": "Vizalar & Qonunlar", 
+  "description_en": "blabla", 
+  "description_uz": "blabla"   
+}
+```
+
+
+> Response (200): 
+```json
+{
+   "message": Successfully added! 
+}
+```
+</details> 
+
+<details>
+<summary> 📌 POST /delete_business/ </summary>
+
+### Delete Business Endpoint 
+
+> Request body: 
+```json
+{
+  "Category_id": 23
+}
+```
+
+
+> Response (200): 
+```json
+{
+   "message": Successfully deleted! 
+}
+```
+</details>
 
 
 --- 
