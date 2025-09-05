@@ -252,11 +252,13 @@
 ```json
 {
    "1": {
-          "category_id": 1,
-          "category_name_en": "Visa & Law" 
-          "category_name_uz": "Viza & Qonun"
-          "n_comments": 12  
-        }
+          "id": 5,
+          "category_name_en": "Halal Kitchen and Shop",
+          "category_name_uz": "Halol oshxona va do‘kon",
+          "description_en": "Offering freshly prepared halal meals and a variety of certified halal grocery products.",
+          "description_uz": "Yangi tayyorlangan halol taomlar va sertifikatlangan halol oziq-ovqat mahsulotlari taklifi.",
+          "comments_count": 0
+  },
 }
 ```
 </details>
