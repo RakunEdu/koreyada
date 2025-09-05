@@ -164,7 +164,7 @@
 
 
 <details>
-<summary> 📌 POST /edit_user/ </summary>
+<summary> 📌 PUT /edit_user/ </summary>
 
 ### Edit User Endpoint 
 
@@ -190,7 +190,7 @@
 
 
 <details>
-<summary> 📌 POST /delete_user/ </summary>
+<summary> 📌 DELETE /delete_user/ </summary>
 
 ### Delete User Endpoint 
 
@@ -266,9 +266,9 @@
 
 
 <details>
-<summary> 📌 POST /edit_user/ </summary>
+<summary> 📌 PUT /edit_category/ </summary>
 
-### Edit User Endpoint 
+### Edit Categoty Endpoint 
 
 > Request body: 
 ```json
@@ -316,7 +316,7 @@
 </details> 
 
 <details>
-<summary> 📌 POST /delete_category/ </summary>
+<summary> 📌 DELETE /delete_category/ </summary>
 
 ### Delete Category Endpoint 
 
@@ -441,7 +441,7 @@ Koreya taomlarining asl mohiyatini his eting — qalbdan tayyorlangan, hurmat bi
 </details> 
 
 <details>
-<summary> 📌 POST /delete_business/ </summary>
+<summary> 📌 DELETE /delete_business/ </summary>
 
 ### Delete Business Endpoint 
 
