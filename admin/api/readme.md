@@ -519,7 +519,9 @@ Onlayn halol bozorlar orqali endi halol mahsulotlarni istalgan joydan topish, ul
    "message": Successfully edited! 
 }
 ```
-
+</details>
+<details>
+<summary> 📌 PUT /edit_post/ </summary>
 ### Edit Post Endpoint 
 
 > Request body: 
@@ -544,16 +546,17 @@ Onlayn halol bozorlar orqali endi halol mahsulotlarni istalgan joydan topish, ul
 
 ```
 
-
 > Response (200): 
 ```json
 {
    "message": Successfully edited! 
 }
 ```
+</details>
 
+<details>
+<summary> 📌 DELETE /delete_post/ </summary>
 ### Delete Post Endpoint 
-
 > Request body: 
 ```json
 {
@@ -568,9 +571,5 @@ Onlayn halol bozorlar orqali endi halol mahsulotlarni istalgan joydan topish, ul
    "message": Successfully deleted! 
 }
 ```
-
-
-
-
 
 </details> 
