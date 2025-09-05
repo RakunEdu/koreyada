@@ -557,7 +557,9 @@ Onlayn halol bozorlar orqali endi halol mahsulotlarni istalgan joydan topish, ul
 <details>
 <summary> 📌 DELETE /delete_post/ </summary>
 ### Delete Post Endpoint 
+  
 > Request body: 
+  
 ```json
 {
   "post_id": 3
